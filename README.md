@@ -10,10 +10,12 @@
 <p align="left">
 <a href= "https://www.linkedin.com/in/ashmit-mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashmit mishra" height="30" width="40" /></a>
 
-- [LeetCode Profile](https://leetcode.com/u/ashmit0702/)  
-  <a href="https://leetcode.com/u/ashmit0702/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30" />
-  </a>
+## My LeetCode Profile
+
+<a href="https://leetcode.com/u/ashmit0702/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" />
+</a>
+
 
 
 </p>
