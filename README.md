@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashmit Kumar Mishra</h1>
-<h3 align="center">Resolute CS Undergraduate with a robust academic foundation and coding expertise. Proficient in Python, C/C++, and Java with a special focus on AI/ ML.</h3>
+<h3 align="center">Resolute CS Undergraduate with EE Minor & AI Concentration. Proficient in building full stack softwares, ML Models, and wireless communication.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashmitKmishra?tab=repositories](https://github.com/ashmitKmishra?tab=repositories)
 
